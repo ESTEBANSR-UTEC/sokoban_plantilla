@@ -137,3 +137,4 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | --- | --- | --- | --- |
 | 55. | Función adicional o powerup (descripción). | Por hacer | - |
 
+
