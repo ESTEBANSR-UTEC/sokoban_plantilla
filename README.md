@@ -50,26 +50,26 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. |Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 0. | Cargar el siguiente nivel. | Hecho | 2 Abril 2023 | | - |
-| 1. | Repetir el juego hasta terminar el nivel. | Por hacer | - | | - |
-| 2. | Imprimir mapa.| Por hacer | - |
-| 3. | Leer el movimiento. | Por hacer | - |
-| 4. | Evaluar el movimiento del usuario. | Por hacer | - |
+| 0. | Cargar el siguiente nivel. | Hecho | 3 Abril 2023 | | - |
+| 1. | Repetir el juego hasta terminar el nivel. | Hecho | - | | 3 Abril 2023 |
+| 2. | Imprimir mapa.| Hecho | 3 Abril 2023 |
+| 3. | Leer el movimiento. | Hecho | 2 Abril 2023 |
+| 4. | Evaluar el movimiento del usuario. | Hecho | 2 Abril 2023 |
 
 ## Derecha
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 5. | Personaje, pasillo  | Por hacer | [0,4] | [4,0] | - |
-| 6. | Personaje, meta  | Por hacer | [0,2] | [4,6] |- |
-| 7. | Personaje, caja, pasillo | Por hacer | [0,1,4] | [4,0,1] | - |
-| 8. | Personaje, caja,  meta | Por hacer | [0,1,2] | [4,0,5] | - |
-| 9. | Personaje, caja_meta, pasillo | Por hacer | [] | [] | - |
-| 10. |Personaje, caja_meta, meta | Por hacer | [] | [] | - |
-| 11. | Personaje_meta, pasillo | Por hacer | [] | [] | - |
-| 12. | Personaje_meta, meta | Por hacer | [] | [] | - |
-| 13. | Personaje_meta, caja, pasillo | Por hacer | [] | [] | - |
-| 14. | Personaje_meta, caja, meta | Por hacer | [] | [] | - |
+| 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | 2 Abril 2023 |
+| 6. | Personaje, meta  | Hecho | [0,2] | [4,6] |2 Abril 2023 |
+| 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | 2 Abril 2023 |
+| 8. | Personaje, caja,  meta | Hecho | [0,1,2] | [4,0,5] | - |
+| 9. | Personaje, caja_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
+| 10. |Personaje, caja_meta, meta | Hecho | [] | [] | 2 Abril 2023 |
+| 11. | Personaje_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
+| 12. | Personaje_meta, meta | Hecho | [] | [] | - |
+| 13. | Personaje_meta, caja, pasillo | Hecho | [] | [] | 2 Abril 2023 |
+| 14. | Personaje_meta, caja, meta | Hecho | [] | [] | 2 Abril 2023 |
 | 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [] | [] | - |
 | 16. | Personaje_meta, caja_meta, meta | Por hacer | [] | [] | - |
 
@@ -77,16 +77,16 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 17. | Personaje y espacio | Por hacer | - |
-| 18. | Personaje y meta | Por hacer | - |
-| 19. | Personaje, caja y espacio | Por hacer | - |
-| 20. | Personaje, caja y meta | Por hacer | - |
-| 21. | Personaje, caja_meta y espacio | Por hacer | - |
-| 22. | Personaje, caja_meta y meta | Por hacer | - |
-| 23. | Personaje_meta y espacio | Por hacer | - |
-| 24. | Personaje_meta y meta | Por hacer | - |
-| 25. | Personaje_meta, caja y espacio | Por hacer | - |
-| 26. | Personaje_meta, caja y meta | Por hacer | - |
+| 17. | Personaje y espacio | Hecho | 2 Abril 2023 |
+| 18. | Personaje y meta | Hecho | 2 Abril 2023 |
+| 19. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
+| 20. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
+| 21. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
+| 22. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
+| 23. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
+| 24. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
+| 25. | Personaje_meta, caja y espacio | Hecho | 2 Abril 2023 |
+| 26. | Personaje_meta, caja y meta | Hecho | 2 Abril 2023 |
 | 27. | Personaje_meta, caja_meta y espacio | Por hacer | - |
 | 28. | Personaje_meta, caja_meta y meta | Por hacer | - |
 
@@ -94,16 +94,16 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 29. | Personaje y espacio | Por hacer | - |
-| 30. | Personaje y meta | Por hacer | - |
-| 31. | Personaje, caja y espacio | Por hacer | - |
-| 32. | Personaje, caja y meta | Por hacer | - |
-| 33. | Personaje, caja_meta y espacio | Por hacer | - |
-| 34. | Personaje, caja_meta y meta | Por hacer | - |
-| 35. | Personaje_meta y espacio | Por hacer | - |
-| 36. | Personaje_meta y meta | Por hacer | - |
-| 37. | Personaje_meta, caja y espacio | Por hacer | - |
-| 38. | Personaje_meta, caja y meta | Por hacer | - |
+| 29. | Personaje y espacio | Hecho | 2 Abril 2023 |
+| 30. | Personaje y meta | Hecho | 2 Abril 2023 |
+| 31. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
+| 32. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
+| 33. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
+| 34. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
+| 35. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
+| 36. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
+| 37. | Personaje_meta, caja y espacio | Hecho | 2 Abril 2023 |
+| 38. | Personaje_meta, caja y meta | Hecho | 2 Abril 2023 |
 | 39. | Personaje_meta, caja_meta y espacio | Por hacer | - |
 | 40. | Personaje_meta, caja_meta y meta | Por hacer | - |
 
@@ -111,16 +111,16 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 41. | Personaje y espacio | Por hacer | - |
-| 42. | Personaje y meta | Por hacer | - |
-| 43. | Personaje, caja y espacio | Por hacer | - |
-| 44. | Personaje, caja y meta | Por hacer | - |
-| 45. | Personaje, caja_meta y espacio | Por hacer | - |
-| 46. | Personaje, caja_meta y meta | Por hacer | - |
-| 47. | Personaje_meta y espacio | Por hacer | - |
-| 48. | Personaje_meta y meta | Por hacer | - |
-| 49. | Personaje_meta, caja y espacio | Por hacer | - |
-| 50. | Personaje_meta, caja y meta | Por hacer | - |
+| 41. | Personaje y espacio | Hecho | 2 Abril 2023 |
+| 42. | Personaje y meta | Hecho | 2 Abril 2023 |
+| 43. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
+| 44. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
+| 45. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
+| 46. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
+| 47. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
+| 48. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
+| 49. | Personaje_meta, caja y espacio | Hecho | 2 Abril 2023 |
+| 50. | Personaje_meta, caja y meta | Hecho | 2 Abril 2023 |
 | 51. | Personaje_meta, caja_meta y espacio | Por hacer | - |
 | 52. | Personaje_meta, caja_meta y meta | Por hacer | - |
 
@@ -128,8 +128,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 53. | Evaluar si el nivel esta terminado.  | Por hacer | - |
-| 54. | Si el nivel esta terminado cargar el siguiente nivel.  | Por hacer | - |
+| 53. | Evaluar si el nivel esta terminado.  | Hecho | 3 Abril 2023 |
+| 54. | Si el nivel esta terminado cargar el siguiente nivel.  | Hecho | 3 Abril 2023 |
 
 ## Función extra
 
