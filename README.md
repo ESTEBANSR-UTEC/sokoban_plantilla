@@ -64,8 +64,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 6. | Personaje, meta  | Hecho | [0,2] | [4,6] |2 Abril 2023 |
 | 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | 2 Abril 2023 |
 | 8. | Personaje, caja,  meta | Hecho | [0,1,2] | [4,0,5] | 2 Abril 2023  |
-| 9. | Personaje, caja_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
-| 10. |Personaje, caja_meta, meta | Hecho | [] | [] | 2 Abril 2023 |
+| 9. | Personaje, caja_meta, pasillo | Por hacer | [] | [] | - |
+| 10. |Personaje, caja_meta, meta | Por hacer | [] | [] | - |
 | 11. | Personaje_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
 | 12. | Personaje_meta, meta | Hecho | [] | [] | 2 Abril 2023  |
 | 13. | Personaje_meta, caja, pasillo | Hecho | [] | [] | 2 Abril 2023 |
@@ -80,8 +80,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 17. | Personaje y espacio | Hecho | 2 Abril 2023 |
 | 18. | Personaje y meta | Hecho | 2 Abril 2023 |
 | 19. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
-| 20. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
-| 21. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
+| 20. | Personaje, caja y meta | Por hacer | - |
+| 21. | Personaje, caja_meta y espacio | Por hacer | - |
 | 22. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
 | 23. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
 | 24. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
@@ -98,8 +98,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 30. | Personaje y meta | Hecho | 2 Abril 2023 |
 | 31. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
 | 32. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
-| 33. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
-| 34. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
+| 33. | Personaje, caja_meta y espacio | Por hacer | - |
+| 34. | Personaje, caja_meta y meta | Por hacer | - |
 | 35. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
 | 36. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
 | 37. | Personaje_meta, caja y espacio | Hecho | 2 Abril 2023 |
@@ -115,8 +115,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 42. | Personaje y meta | Hecho | 2 Abril 2023 |
 | 43. | Personaje, caja y espacio | Hecho | 2 Abril 2023 |
 | 44. | Personaje, caja y meta | Hecho | 2 Abril 2023 |
-| 45. | Personaje, caja_meta y espacio | Hecho | 2 Abril 2023 |
-| 46. | Personaje, caja_meta y meta | Hecho | 2 Abril 2023 |
+| 45. | Personaje, caja_meta y espacio | Por hacer | - |
+| 46. | Personaje, caja_meta y meta | Por hacer | - |
 | 47. | Personaje_meta y espacio | Hecho | 2 Abril 2023 |
 | 48. | Personaje_meta y meta | Hecho | 2 Abril 2023 |
 | 49. | Personaje_meta, caja y espacio | Hecho | 2 Abril 2023 |
