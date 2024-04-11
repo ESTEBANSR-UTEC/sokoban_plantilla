@@ -50,7 +50,7 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. |Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 0. | Cargar el siguiente nivel. | Por hacer | - | | - |
+| 0. | Cargar el siguiente nivel. | Hecho | 2 Abril 2023 | | - |
 | 1. | Repetir el juego hasta terminar el nivel. | Por hacer | - | | - |
 | 2. | Imprimir mapa.| Por hacer | - |
 | 3. | Leer el movimiento. | Por hacer | - |
