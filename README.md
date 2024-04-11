@@ -63,11 +63,11 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | 2 Abril 2023 |
 | 6. | Personaje, meta  | Hecho | [0,2] | [4,6] |2 Abril 2023 |
 | 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | 2 Abril 2023 |
-| 8. | Personaje, caja,  meta | Hecho | [0,1,2] | [4,0,5] | - |
+| 8. | Personaje, caja,  meta | Hecho | [0,1,2] | [4,0,5] | 2 Abril 2023  |
 | 9. | Personaje, caja_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
 | 10. |Personaje, caja_meta, meta | Hecho | [] | [] | 2 Abril 2023 |
 | 11. | Personaje_meta, pasillo | Hecho | [] | [] | 2 Abril 2023 |
-| 12. | Personaje_meta, meta | Hecho | [] | [] | - |
+| 12. | Personaje_meta, meta | Hecho | [] | [] | 2 Abril 2023  |
 | 13. | Personaje_meta, caja, pasillo | Hecho | [] | [] | 2 Abril 2023 |
 | 14. | Personaje_meta, caja, meta | Hecho | [] | [] | 2 Abril 2023 |
 | 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [] | [] | - |
